@@ -1,7 +1,4 @@
 # sail-cc
-sail backend
-
-
 
 npm install
 
